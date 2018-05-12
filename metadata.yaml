@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/393
     wikipedia: http://en.wikipedia.org/wiki/Isabella_Bird
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41635#Among-the-Tibetans
 gutenberg_issued: '2012-12-16'
 gutenberg_type: Text
 identifiers:
